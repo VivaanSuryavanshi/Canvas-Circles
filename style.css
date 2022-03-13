@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background:linear-gradient(to right, gold,purple,aqua);
+}
+h1{
+    color:white;
+    font-size:40px;
+}
+span{
+    font-size:20px;
+    font-weight:bold;
+    color:white;
+}
+input{
+    margin-left:15px;
+    background-color:aquamarine;
+}
+#myCanvas{
+    border-width:10px;
+    background-color:white;
+    border-style:ridge;
+}
